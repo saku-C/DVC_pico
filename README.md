@@ -3,6 +3,10 @@
 RP2040（Raspberry Pi Pico / Pico 2）をベースにした、多機能なDMX-512コントローラーおよびオシロスコープ・アナライザープロジェクトです。
 ハードウェア（KiCad設計データ）とファームウェア（Arduinoスケッチ）が一体となって管理されています。
 
+https://qiita.com/kurumi18891/private/b40f511b77fc0b5f25af
+
+https://qiita.com/kurumi18891/private/ef590465823563e47984
+
 ---
 
 ## 📂 フォルダ構成
